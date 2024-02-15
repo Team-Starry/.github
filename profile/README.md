@@ -1,4 +1,4 @@
-![](Logo_Benners.png)
+![](./Logo_Benners.png)
 
 # Team Starry
 
