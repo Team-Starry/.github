@@ -1,6 +1,6 @@
-![](./TeamStarry.png)
-
 <div align=center>
+
+![](./TeamStarry.png)
 
 # Team Starry
 
