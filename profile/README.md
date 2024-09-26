@@ -1,10 +1,10 @@
 ![](./TeamStarry.png)
 
-<div stype="text-align:center;">
+<div align=center>
 
 # Team Starry
 
-*** “月光伴星耀大地。”***
+***“月光伴星耀大地。”***
 
 任何设计都可以变的有趣，而我们追求任何有趣的设计。我们提倡保持创作，我们共踏星光旅途。
 
